@@ -1,0 +1,31 @@
+{
+  "name": "uimultipart",
+  "version": "1.0.0",
+  "description": "This package is developed to support backend responses which has  multipart/form-data ",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^22.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmulty/uimultipart.git"
+  },
+  "keywords": [
+    "multipart/form-data",
+    "frontend",
+    "to",
+    "handle",
+    "backend",
+    "multipart/form-data"
+  ],
+  "author": "KTechie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmulty/uimultipart/issues"
+  },
+  "homepage": "https://github.com/kmulty/uimultipart#readme"
+}
