@@ -1,3 +1,3 @@
-const helloNpm = require('uimultipart')
+const multipartResponse = require('uimultipart')
 
-console.log(helloNpm())
+console.log(multipartResponse())

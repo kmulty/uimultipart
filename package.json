@@ -1,6 +1,6 @@
 {
   "name": "uimultipart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is developed to support backend responses which has  multipart/form-data ",
   "main": "index.js",
   "dependencies": {
